@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/MB-net/static/js/main.38bcbf2a.js",
+    "main.js": "/MB-net/static/js/main.1ab914f9.js",
     "static/media/gimp.xcf": "/MB-net/static/media/gimp.6ab50cd11906d66bcf00.xcf",
     "static/media/CV_fr.png": "/MB-net/static/media/CV_fr.016656e2bdaaa6de3710.png",
     "static/media/CV_fr.pdf": "/MB-net/static/media/CV_fr.9fe8dbd5b303a2e56938.pdf",
@@ -25,9 +25,9 @@
     "static/media/generateurparaphrases_dark.png": "/MB-net/static/media/generateurparaphrases_dark.d80f3d2a00b00b85ff5a.png",
     "static/media/generateurparaphrases_light.png": "/MB-net/static/media/generateurparaphrases_light.ba5b556b67b8e9fe06ff.png",
     "index.html": "/MB-net/index.html",
-    "main.38bcbf2a.js.map": "/MB-net/static/js/main.38bcbf2a.js.map"
+    "main.1ab914f9.js.map": "/MB-net/static/js/main.1ab914f9.js.map"
   },
   "entrypoints": [
-    "static/js/main.38bcbf2a.js"
+    "static/js/main.1ab914f9.js"
   ]
 }
