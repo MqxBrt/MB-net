@@ -132,7 +132,7 @@ const basketStats = {
     ],
     GitHubRepo: 'https://github.com/sillonx/basket_stats',
     Name: 'Basket Stats',
-    Date: 'Juin 2022 - Août 2022',
+    Date: 'Septembre 2022',
     ImageLight: 'basketstats_light.png',
     ImageDark: 'basketstats_dark.png',
     Comment: 'Site internet React MUI',

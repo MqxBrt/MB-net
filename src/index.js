@@ -8,11 +8,11 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <CookiesProvider>
-      <HashRouter>
-        <App/>
-      </HashRouter>
-    </CookiesProvider>
-  </React.StrictMode>
+    <React.StrictMode>
+        <CookiesProvider>
+            <HashRouter>
+                <App />
+            </HashRouter>
+        </CookiesProvider>
+    </React.StrictMode>
 );
