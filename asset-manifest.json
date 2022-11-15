@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "/MB-net/static/js/main.f5f8fa0c.js",
+    "main.js": "/MB-net/static/js/main.38bcbf2a.js",
     "static/media/gimp.xcf": "/MB-net/static/media/gimp.6ab50cd11906d66bcf00.xcf",
-    "static/media/CV_fr.png": "/MB-net/static/media/CV_fr.fba7d5fc4d41d8d22ab7.png",
-    "static/media/CV_fr.pdf": "/MB-net/static/media/CV_fr.21cadba79a2b44b38104.pdf",
+    "static/media/CV_fr.png": "/MB-net/static/media/CV_fr.016656e2bdaaa6de3710.png",
+    "static/media/CV_fr.pdf": "/MB-net/static/media/CV_fr.9fe8dbd5b303a2e56938.pdf",
     "static/media/inter2hut_dark.png": "/MB-net/static/media/inter2hut_dark.7b51ed303de975c73cd1.png",
     "static/media/inter2hut_light.png": "/MB-net/static/media/inter2hut_light.433937c7b202d644ab99.png",
     "static/media/minesweeper_dark.png": "/MB-net/static/media/minesweeper_dark.4421ee98ba9fc48850e6.png",
@@ -25,9 +25,9 @@
     "static/media/generateurparaphrases_dark.png": "/MB-net/static/media/generateurparaphrases_dark.d80f3d2a00b00b85ff5a.png",
     "static/media/generateurparaphrases_light.png": "/MB-net/static/media/generateurparaphrases_light.ba5b556b67b8e9fe06ff.png",
     "index.html": "/MB-net/index.html",
-    "main.f5f8fa0c.js.map": "/MB-net/static/js/main.f5f8fa0c.js.map"
+    "main.38bcbf2a.js.map": "/MB-net/static/js/main.38bcbf2a.js.map"
   },
   "entrypoints": [
-    "static/js/main.f5f8fa0c.js"
+    "static/js/main.38bcbf2a.js"
   ]
 }
